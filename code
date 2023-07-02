@@ -1,0 +1,13 @@
+echo "FUNCTIONS EXAMPLE"
+
+func1(){   # declaring 
+echo "this is function1"   
+}
+
+func2(){
+echo "this is function2"
+}
+
+echo "All functions declaration end here "
+func1       # calling functions 
+func2
