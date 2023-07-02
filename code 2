@@ -1,0 +1,6 @@
+
+# importing for othr prg using source keyword 
+
+source ./functions.sh  # importing from functions prg in current directory 
+
+echo "  THIS IS FUNCTION2 "
